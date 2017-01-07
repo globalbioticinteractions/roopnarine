@@ -1,4 +1,5 @@
 # roopnarine
+[![Build Status](https://travis-ci.org/globalbioticinteractions/roopnarine.svg?branch=master)](https://travis-ci.org/globalbioticinteractions/roopnarine)
 
 dataset retrieved from:
 http://dx.doi.org/10.7167/2013/857470/dataset
