@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/globalbioticinteractions/roopnarine.svg?branch=master)](https://travis-ci.org/globalbioticinteractions/roopnarine)
 
 dataset retrieved from:
-http://dx.doi.org/10.7167/2013/857470/dataset
+Roopnarine, P.D. & Hertog, R., 2013. Detailed Food Web Networks of Three Greater Antillean Coral Reef Systems: The Cayman Islands, Cuba, and Jamaica. DatasetImpl Papers in Ecology, 2013, pp.1–9. Available at: http://dx.doi.org/10.7167/2013/857470
 
 open questions:
 1. roopnarine/857470.item.2.csv line 15, contains a reference to non-existing trophic guild with number 0. Currently ignoring this
