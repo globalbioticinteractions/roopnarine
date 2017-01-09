@@ -19,3 +19,5 @@ open questions:
 
 Currently, all " " are replace with ",", such that cases "100 103" turn to "100,103".  Reported all occurances of these up to item 9.
 
+
+Also available through http://globalbioticinteractions.org .

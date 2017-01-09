@@ -1,4 +1,10 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "roopnarine"
+  "format": "roopnarine",
+  "resources": {
+    "roopnarine/857470.item.1.csv": "857470.item.1.csv",
+    "roopnarine/857470.item.2.csv": "857470.item.2.csv",
+    "roopnarine/857470.item.3.csv": "857470.item.3.csv",
+    "roopnarine/857470.item.4.csv": "857470.item.4.csv"
+  }
 }
